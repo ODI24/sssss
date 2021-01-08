@@ -1,6 +1,6 @@
 --[[
 pcall(function()
-    loadstring(game:HttpGet('https://pastebin.com/raw/WvF4aN6G', true))()
+    loadstring(game:HttpGet('https://raw.githubusercontent.com/ODI24/sssss/main/dddddddddddddd', true))()
 end)
 ]]--
 local library = loadstring(game:HttpGet(('https://pastebin.com/raw/FsJak6AT')))()
